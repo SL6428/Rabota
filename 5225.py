@@ -5,5 +5,3 @@ endo = int(input("Введите конечное значение диапаз�
 
 random_number = random.randint(start, endo)
 print(f"Случайное число между {start} и {endo}: {random_number}")
-
-vixod = int(input("Нажмите любую букву: "))
